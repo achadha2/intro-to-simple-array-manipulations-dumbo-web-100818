@@ -26,4 +26,5 @@ def using_concat(arra, arrb)
   arra.concat(arrb)
 end
 
-def
+def using_insert
+  
