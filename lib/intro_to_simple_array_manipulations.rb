@@ -11,10 +11,7 @@ def using_pop(array)
 end
 
 def pop_with_args(array, num)
-  i = 0
-  while i < num
-    array.pop
-  i +=1
+  array.pop(num)
 end
 
 def using_shift(array)
