@@ -12,3 +12,6 @@ end
 
 def pop_with_args(array, n)
   n.times do
+    array.pop
+  end
+end
